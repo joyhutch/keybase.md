@@ -1,13 +1,3 @@
-### Keybase proof
-
-I hereby claim:
-
-  * I am joyhutch on github.
-  * I am joyhutch (https://keybase.io/joyhutch) on keybase.
-  * I have a public key ASDg6oT3foxyXbDpUmd8LoJxzIXG21O1NmtE0cu0rB2hSAo
-
-To claim this, I am signing this object:
-
 ```json
 {
   "body": {
@@ -42,27 +32,3 @@ To claim this, I am signing this object:
   "seqno": 6,
   "tag": "signature"
 }
-```
-
-with the key [ASDg6oT3foxyXbDpUmd8LoJxzIXG21O1NmtE0cu0rB2hSAo](https://keybase.io/joyhutch), yielding the signature:
-
-```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4OqE936Mcl2w6VJnfC6CccyFxttTtTZrRNHLtKwdoUgKp3BheWxvYWTESpcCBsQgFrw/RY4bMFqOrC0piArHLQrotexME1HyD/VPbiH+R3vEIO7V0NSIIarKHtrCZH5im4dMx3EHWZPCsMNOZYXWWQQmAgHCo3NpZ8RAD8PpEpHanQJ/n7G5DCOABLr2eW54XHZBmrCtk6+sKggKQsFxlJD3GPpjkBtAVtAUAmwCk2EAGOnKuAZqGE5rBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEII4h7EjTRG2XRg65PRBQdELbw49ApTXZ/Mklj1hA06tDo3RhZ80CAqd2ZXJzaW9uAQ==
-
-```
-
-And finally, I am proving ownership of the github account by posting this as a gist.
-
-### My publicly-auditable identity:
-
-https://keybase.io/joyhutch
-
-### From the command line:
-
-Consider the [keybase command line program](https://keybase.io/download).
-
-```bash
-# look me up
-keybase id joyhutch
-```
-
